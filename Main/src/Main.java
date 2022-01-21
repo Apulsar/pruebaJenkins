@@ -7,7 +7,7 @@ public class Main {
 		
 	}
 	public void jajaSi() {
-		System.out.println("Holuwu");
+		System.out.println("funciona xfi");
 	}
 
 }
