@@ -7,7 +7,7 @@ public class Main {
 		
 	}
 	public void jajaSi() {
-		System.out.println("Holi");
+		System.out.println("Holuwu");
 	}
 
 }
